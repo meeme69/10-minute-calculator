@@ -1,5 +1,4 @@
 Welcome to My 10-Minute Calculator 🕒
-About This Project
 
 So, I had 10 minutes to kill and decided to make a calculator. No fancy UI. No executable. Just pure Python glory. It's a calculator that works… kind of. If you're looking for a sleek app with buttons and everything, well, this ain't it.
 
