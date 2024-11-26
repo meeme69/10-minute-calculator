@@ -8,7 +8,6 @@ Features:
     Addition: Because math needs to add up.
     Subtraction: For when you want to take things away.
     Multiplication: It’s like adding, but faster!
-    Division: Dividing things, not your hopes and dreams.
     Custom Input: Write anything on the screen. Seriously, anything. It’s a free-for-all!
 
 How to Use:
